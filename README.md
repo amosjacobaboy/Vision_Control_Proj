@@ -12,4 +12,4 @@ This project contains a Python script that generates a biography for **Amos Jaco
 3. Run the Python script:
 
 ```bash
-python biography_generator.py
+python Biography_Generator.ipynb
